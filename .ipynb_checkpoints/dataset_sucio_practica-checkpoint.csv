@@ -1,0 +1,126 @@
+id,nombre,edad,correo,pais,salario,fecha_registro,activo
+1,Julia Zhang,150.0,aortiz@perry.com,,25000.0,2026-03-09,Sí
+2,,35.0,asimmons@garza.com,España,,2026-05-04,No
+3,George Burke,40.0,mcclainerin@gmail.com,Argentina,,2026-01-27,
+4,Joyce Williams,30.0,correo_invalido,Argentina,25000.0,2025-02-23,No
+5,Elaine Sanchez,-5.0,correo_invalido,México,25000.0,2025-03-28,Sí
+6,David Rodriguez Jr.,25.0,timothyjohnson@yahoo.com,España,,2025-06-16,No
+7,Roberto Smith,-5.0,vegasara@yahoo.com,,12000.0,2026-03-31,
+8,Nicholas Torres,-5.0,arnoldjoe@macias.biz,,12000.0,2026-04-07,
+9,Linda Collins,22.0,xthompson@gmail.com,México,15000.0,2026-03-15,Sí
+10,Angela Richards,-5.0,rubiogabrielle@yahoo.com,Argentina,-1000.0,2025-09-22,Sí
+11,Ellen Morris,25.0,harrisonchristopher@gmail.com,,12000.0,2026-04-21,No
+12,Daniel Wright,25.0,melissamaxwell@gmail.com,,-1000.0,2024-12-20,Sí
+13,Paul Liu,150.0,ilong@gmail.com,España,,2025-11-21,No
+14,John Parrish,35.0,owilson@juarez.com,,18000.0,2025-09-27,No
+15,Danielle Dawson,30.0,matthewcole@johnson.com,,25000.0,2026-01-24,Sí
+16,Gary Sullivan,40.0,hsparks@johnson.biz,México,12000.0,2025-06-07,Sí
+17,Christopher Klein,-5.0,ericarice@hotmail.com,España,18000.0,2024-09-22,Sí
+18,Steven Green,25.0,cookerichard@gmail.com,Argentina,,2025-10-01,Sí
+19,Nicholas Curry,35.0,correo_invalido,México,12000.0,2025-11-22,Sí
+20,Laura Vargas,35.0,todd28@hotmail.com,,25000.0,2024-08-19,
+21,Marc Miller DDS,30.0,ccalderon@campbell-carter.com,,-1000.0,2024-06-25,Sí
+22,Carrie Griffith,,correo_invalido,,-1000.0,2025-05-05,
+23,Mrs. Diane Carter,150.0,schultzpatrick@mccoy.net,,18000.0,2024-10-31,No
+24,Vicki Love,-5.0,antonio14@johnson.net,Argentina,,2026-01-24,No
+25,Matthew Porter,-5.0,hansoncameron@yahoo.com,Argentina,12000.0,2025-11-17,No
+26,Ryan Coleman,35.0,jennifer91@morgan.com,Argentina,18000.0,2024-12-06,Sí
+27,Mary Miranda,40.0,brendaglenn@gmail.com,Argentina,-1000.0,2025-06-01,
+28,John Taylor,,jonesashley@hotmail.com,,-1000.0,2025-08-02,No
+29,Teresa Ramos,22.0,rileyraymond@hotmail.com,México,-1000.0,2025-08-29,
+30,Lisa Ross,30.0,timothy81@yahoo.com,México,25000.0,2025-12-05,Sí
+31,Mrs. Sara Johnson,35.0,correo_invalido,Argentina,,2026-03-07,
+32,Sarah Boyd,,danielroberts@taylor-guzman.org,México,,2024-08-04,Sí
+33,Heather Harris,40.0,romeronatalie@rogers-mcdonald.biz,España,,2025-11-20,Sí
+34,Matthew Thompson,30.0,rlawson@clark.com,Argentina,15000.0,2025-06-23,Sí
+35,Christopher Velazquez,22.0,brian41@keller.biz,,18000.0,2024-09-18,No
+36,Roy Morales,40.0,brianna39@gmail.com,México,18000.0,2024-09-12,No
+37,Kimberly Taylor,40.0,huffmanchad@duncan.com,Argentina,15000.0,2026-01-03,Sí
+38,Brian Sherman,30.0,brianna61@yahoo.com,Argentina,-1000.0,2024-09-17,Sí
+39,Rose Williams,-5.0,jesus70@berger.org,España,12000.0,2025-01-09,No
+40,Cynthia Cooke,-5.0,charlesthompson@ramirez.com,España,12000.0,2026-01-07,Sí
+41,Cynthia Arnold,150.0,correo_invalido,,25000.0,2024-11-03,No
+42,Patricia Morrison,150.0,uweiss@yahoo.com,Argentina,-1000.0,2026-03-10,No
+43,Dustin Hernandez,22.0,bernardbryan@gmail.com,España,18000.0,2024-12-19,No
+44,,25.0,lstevens@gmail.com,,12000.0,2025-09-28,Sí
+45,John Estrada,35.0,nichole26@hotmail.com,Argentina,-1000.0,2025-12-12,Sí
+46,Jeremy Cooper,35.0,vfrederick@hotmail.com,,-1000.0,2025-02-03,No
+47,Daisy Morton,35.0,michaelwest@hotmail.com,,25000.0,2025-06-16,No
+48,Mitchell Moses,,heatherclark@green.com,Argentina,18000.0,2025-10-05,Sí
+49,Willie Marks,,joshua86@farrell.com,,-1000.0,2024-08-05,Sí
+50,Hannah Maldonado,35.0,phillip14@weiss.com,,15000.0,2025-08-29,
+51,Jordan Smith,30.0,morenoashley@gmail.com,,15000.0,2024-08-26,
+52,Daniel Martinez,40.0,david81@hotmail.com,,12000.0,2024-07-22,
+53,Bryan Gutierrez,30.0,reeddiana@hopkins-rodriguez.com,España,12000.0,2025-12-28,No
+54,Mike Sutton,,goodmanalejandra@yahoo.com,,15000.0,2026-01-28,Sí
+55,John Lewis,,rodriguezbrett@yahoo.com,México,-1000.0,2024-07-03,
+56,Kristen Kelly,-5.0,nvincent@gmail.com,,25000.0,2026-05-02,Sí
+57,Kayla Espinoza,30.0,royenglish@gmail.com,Argentina,15000.0,2025-09-17,Sí
+58,Michael Barajas,40.0,antoniocox@hotmail.com,España,15000.0,2026-05-02,
+59,Janice Wilson,30.0,rodriguezmatthew@ramirez.org,México,12000.0,2026-02-10,
+60,Michael Dixon,-5.0,schneiderstephanie@coleman-snyder.biz,México,-1000.0,2026-05-02,Sí
+61,Thomas Perkins,35.0,lyoung@moore.com,España,-1000.0,2025-06-06,No
+62,John Anderson,150.0,mario37@hotmail.com,México,18000.0,2025-05-05,No
+63,Alyssa Anderson,35.0,mwilson@gmail.com,España,18000.0,2025-03-04,
+64,Holly Maldonado,35.0,taylorkatelyn@english.com,México,25000.0,2025-08-30,Sí
+65,,,susanbarnes@gmail.com,México,,2025-02-20,No
+66,Michael Lopez,40.0,correo_invalido,España,-1000.0,2025-12-01,No
+67,,25.0,yolandameyer@yahoo.com,México,15000.0,2025-12-04,
+68,Timothy Li,150.0,molsen@gmail.com,México,12000.0,2024-10-26,
+69,Sheila Kaufman,30.0,stephaniebridges@jackson-smith.com,Argentina,15000.0,2025-11-14,
+70,Lisa Lewis,,knightkaren@stanley-roberts.biz,México,18000.0,2024-09-20,Sí
+71,Kimberly Thompson,35.0,elee@price.com,,12000.0,2025-06-23,
+72,Chelsea Blevins,30.0,smithjeremy@yahoo.com,Argentina,,2024-08-29,Sí
+73,Elizabeth Miller,25.0,forbesbrian@austin-roach.com,,18000.0,2025-08-31,Sí
+74,,-5.0,cookkevin@miller.com,México,25000.0,2026-01-21,Sí
+75,Adrienne Clark,150.0,michaelwilkerson@martin.com,,15000.0,2024-11-30,
+76,Heather Glover,22.0,nicolemartinez@ewing.com,España,25000.0,2025-02-27,No
+77,Eugene Williams,30.0,jparks@hodge.com,España,18000.0,2025-05-31,
+78,Michele Wolfe,25.0,ecooper@hotmail.com,,12000.0,2025-12-21,Sí
+79,Charles Page,25.0,correo_invalido,,-1000.0,2025-09-01,No
+80,Deborah Ball,,ypowell@craig.net,Argentina,15000.0,2024-07-24,No
+81,Mike Davis,-5.0,justinadams@cooper-scott.net,,12000.0,2024-12-29,No
+82,Denise Richardson,25.0,btodd@jackson.com,,,2025-05-21,No
+83,,150.0,kristinajones@hotmail.com,México,15000.0,2024-09-01,Sí
+84,Regina Cooper,-5.0,hsmith@hotmail.com,México,,2024-08-04,Sí
+85,Joel West,150.0,odonnellvicki@yahoo.com,,-1000.0,2024-11-12,
+86,Levi Perry,22.0,mark23@hotmail.com,México,12000.0,2025-02-18,No
+87,Jessica Wilson,35.0,cesar81@hotmail.com,España,25000.0,2026-01-25,
+88,,22.0,correo_invalido,,12000.0,2025-03-07,
+89,Erika Bernard,150.0,correo_invalido,Argentina,12000.0,2024-11-16,Sí
+90,Michael Johnson,150.0,christinevelazquez@hotmail.com,,,2024-11-02,
+91,Melissa Olson,22.0,uscott@hotmail.com,,12000.0,2025-11-27,
+92,Emily Robinson,22.0,rwilson@yahoo.com,España,25000.0,2024-06-26,Sí
+93,Danielle Thomas,,lesliemiller@hotmail.com,,25000.0,2025-03-28,Sí
+94,Christine Young,22.0,buckwilliam@gmail.com,España,15000.0,2026-01-16,Sí
+95,Daniel Wong,150.0,correo_invalido,España,,2026-04-29,No
+96,Luis Drake,25.0,correo_invalido,,25000.0,2025-01-22,Sí
+97,Zachary Adams,40.0,lorraine89@willis.com,México,15000.0,2026-05-01,No
+98,Carlos Sanders,25.0,danielle03@dixon-ramsey.info,,18000.0,2024-08-27,
+99,Elijah Lopez,30.0,travis44@yahoo.com,Argentina,25000.0,2025-12-24,
+100,Veronica Watson,22.0,kmurphy@perez-lee.info,España,25000.0,2024-05-31,
+101,Brady Byrd,30.0,smendoza@yahoo.com,,12000.0,2025-12-18,No
+102,Vincent Chan,35.0,jason58@reynolds-santiago.info,Argentina,25000.0,2025-11-25,Sí
+103,Stephen Watson,25.0,kpearson@powers-lane.com,Argentina,12000.0,2024-07-23,No
+104,Jennifer Booth,150.0,udowns@cannon.com,México,-1000.0,2025-05-04,No
+105,Richard Moore,,snyderbrianna@phillips-floyd.com,Argentina,15000.0,2024-05-31,Sí
+106,Victoria Kelley,25.0,vgreen@carey.info,,25000.0,2025-12-05,
+107,Anthony Garza,35.0,arowe@brown-pearson.org,Argentina,25000.0,2026-03-10,
+108,Taylor Collins,150.0,ngarza@hotmail.com,España,25000.0,2025-09-06,Sí
+109,,,jamiejones@cox-lee.com,México,15000.0,2024-06-17,
+110,Christopher Hughes,,markjohnson@yahoo.com,,18000.0,2025-11-21,
+111,Elizabeth Leon,35.0,cooleymichael@yahoo.com,Argentina,15000.0,2025-02-26,Sí
+112,Shawn Diaz,40.0,rpatterson@cabrera.net,España,-1000.0,2024-07-15,No
+113,Ronald Trujillo,22.0,max20@johnson-joseph.biz,México,15000.0,2024-07-12,Sí
+114,Jackson Simpson,30.0,hharris@choi.com,España,18000.0,2024-06-13,Sí
+115,Michelle Hart,35.0,ajones@wilson.com,Argentina,25000.0,2025-12-22,No
+116,Samuel Roth,30.0,robertsmith@taylor.info,España,12000.0,2024-12-10,Sí
+117,Kristina Buchanan,30.0,rmurphy@gmail.com,Argentina,18000.0,2024-11-18,No
+118,Michael Harper,-5.0,ndaniels@gmail.com,Argentina,12000.0,2026-04-29,No
+119,Kristopher Hampton,150.0,josephwilliam@taylor-collins.com,,-1000.0,2025-07-08,
+120,Christopher Mendoza,,myerssteven@moore-george.info,,,2026-03-01,No
+1,Julia Zhang,150.0,aortiz@perry.com,,25000.0,2026-03-09,Sí
+2,,35.0,asimmons@garza.com,España,,2026-05-04,No
+3,George Burke,40.0,mcclainerin@gmail.com,Argentina,,2026-01-27,
+4,Joyce Williams,30.0,correo_invalido,Argentina,25000.0,2025-02-23,No
+5,Elaine Sanchez,-5.0,correo_invalido,México,25000.0,2025-03-28,Sí
