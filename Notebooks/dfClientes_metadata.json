@@ -1,0 +1,18 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "cliente_id": {
+            "sdtype": "id"
+        },
+        "edad": {
+            "sdtype": "numerical"
+        },
+        "ingreso_mensual": {
+            "sdtype": "numerical"
+        },
+        "ciudad": {
+            "sdtype": "categorical"
+        }
+    },
+    "primary_key": "cliente_id"
+}
